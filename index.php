@@ -1,4 +1,5 @@
 <?php
+//updated the cluster IP
 $servername = "172.30.153.14";
 $username = "root";
 $password = "123";
