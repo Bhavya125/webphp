@@ -1,6 +1,6 @@
 <?php
 //updated the cluster IP
-$servername = "172.30.248.39";
+$servername = "172.30.20.77";
 $username = "root";
 $password = "123";
 $dbname = "priar";
